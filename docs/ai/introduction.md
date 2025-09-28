@@ -37,7 +37,7 @@ Shade Agents power [Agentic Protocols](./shade-agents/examples.md#agentic-protoc
 - Agent-to-agent communication
 - End-to-end confidential iterations with agents
 
-Agents are accessible through the [NEAR AI Assistant](https://chat.near.ai/chat), a single interface that intelligently selects the most appropriate agents to handle user requests and connects multiple agents together for more complex tasks. The assistant can take actions for the user, has integrated payments, and can dynamically generate frontends on the fly based on user requests.
+Agents are accessible through the [NEAR AI Assistant](https://chat.near.ai/), a single interface that intelligently selects the most appropriate agents to handle user requests and connects multiple agents together for more complex tasks. The assistant can take actions for the user, has integrated payments, and can dynamically generate frontends on the fly based on user requests.
 
 ---
 
